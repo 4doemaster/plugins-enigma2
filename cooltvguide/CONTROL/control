@@ -1,0 +1,10 @@
+Package: enigma2-plugin-extensions-cooltvguide
+Version: Coolman_V5.6.2
+Description: Cool TV Guide 3D EPG with switchable 4-24 TV-Lines and changeable Buttons with Setup
+Section: extra
+Priority: optional
+Maintainer: Coolman <coolman@uni.de>
+Architecture: all
+OE: cooltvguide-Coolman_V5.6.2
+Replaces: enigma2-plugin-extensions-cooltvguideskin
+Homepage: unknown
