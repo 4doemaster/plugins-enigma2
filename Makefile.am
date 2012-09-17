@@ -1,6 +1,7 @@
 ACLOCAL_AMFLAGS = -I m4
 
 SUBDIRS = \
+	1channel \
 	aihdcontroler \
 	antiscrollbar \
 	audiosync \
@@ -11,6 +12,7 @@ SUBDIRS = \
 	babelzapper \
 	bitrateviewer \
 	bonjour \
+	cooltvguide \
 	cdinfo \
 	dreamirc \
 	dreammediathek \

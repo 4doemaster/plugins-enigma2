@@ -60,6 +60,8 @@ AM_CONDITIONAL(UPDATE_PO, test "$with_po" = "yes")
 AC_CONFIG_FILES([
 Makefile
 
+1channel/Makefile
+
 aihdcontroler/Makefile
 aihdcontroler/meta/Makefile
 aihdcontroler/src/Makefile
@@ -118,6 +120,29 @@ bonjour/src/Makefile
 cdinfo/Makefile
 cdinfo/meta/Makefile
 cdinfo/src/Makefile
+
+cooltvguide/Makefile
+cooltvguide/Cool3D/Makefile
+cooltvguide/Cool3D/Menu/Makefile
+cooltvguide/Cool3D/Standard/Makefile
+cooltvguide/CoolSkin/Makefile
+cooltvguide/locale/Makefile
+cooltvguide/locale/bg/Makefile
+cooltvguide/locale/bg/LC_MESSAGES/Makefile
+cooltvguide/locale/cs/Makefile
+cooltvguide/locale/cs/LC_MESSAGES/Makefile
+cooltvguide/locale/de/Makefile
+cooltvguide/locale/de/LC_MESSAGES/Makefile
+cooltvguide/locale/fa/Makefile
+cooltvguide/locale/fa/LC_MESSAGES/Makefile
+cooltvguide/locale/fr/Makefile
+cooltvguide/locale/fr/LC_MESSAGES/Makefile
+cooltvguide/locale/nl/Makefile
+cooltvguide/locale/nl/LC_MESSAGES/Makefile
+cooltvguide/locale/no/Makefile
+cooltvguide/locale/no/LC_MESSAGES/Makefile
+cooltvguide/locale/pl/Makefile
+cooltvguide/locale/pl/LC_MESSAGES/Makefile
 
 dreamirc/Makefile
 dreamirc/meta/Makefile
