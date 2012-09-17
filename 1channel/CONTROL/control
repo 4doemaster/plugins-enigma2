@@ -1,0 +1,7 @@
+Package: enigma2-plugin-extensions-1channel
+Version: 1.0
+Description: 1channel video on demand
+Architecture: mipsel
+Section: extra
+Priority: optional
+Maintainer: subixonfire  www.satforum.me
